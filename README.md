@@ -1,4 +1,3 @@
-🚀 SpaceX-Falcon-9-First-Stage-Landing-Prediction Project
 This project was completed as part of the IBM Data Science Professional Certificate. The goal was to predict the successful landing of SpaceX’s Falcon 9 first-stage boosters using historical launch data and machine learning techniques.
 
 📌 Objective
